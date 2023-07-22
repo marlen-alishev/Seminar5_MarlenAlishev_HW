@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 5\Seminar5_MarlenAlishev_HW\Exercise34\obj\Debug\net6.0\Exercise34.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 5\Seminar5_MarlenAlishev_HW\Exercise34\obj\Debug\net6.0\Exercise34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 5\Seminar5_MarlenAlishev_HW\Exercise34\obj\Debug\net6.0\Exercise34.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 5\Seminar5_MarlenAlishev_HW\Exercise34\obj\Debug\net6.0\Exercise34.AssemblyInfo.cs
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 5\Seminar5_MarlenAlishev_HW\Exercise34\obj\Debug\net6.0\Exercise34.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 5\Seminar5_MarlenAlishev_HW\Exercise34\bin\Debug\net6.0\Exercise34.exe
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 5\Seminar5_MarlenAlishev_HW\Exercise34\bin\Debug\net6.0\Exercise34.deps.json
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 5\Seminar5_MarlenAlishev_HW\Exercise34\bin\Debug\net6.0\Exercise34.runtimeconfig.json
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 5\Seminar5_MarlenAlishev_HW\Exercise34\bin\Debug\net6.0\Exercise34.dll
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 5\Seminar5_MarlenAlishev_HW\Exercise34\bin\Debug\net6.0\Exercise34.pdb
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 5\Seminar5_MarlenAlishev_HW\Exercise34\obj\Debug\net6.0\Exercise34.dll
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 5\Seminar5_MarlenAlishev_HW\Exercise34\obj\Debug\net6.0\refint\Exercise34.dll
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 5\Seminar5_MarlenAlishev_HW\Exercise34\obj\Debug\net6.0\Exercise34.pdb
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 5\Seminar5_MarlenAlishev_HW\Exercise34\obj\Debug\net6.0\Exercise34.genruntimeconfig.cache
+C:\Users\user\Desktop\python\Geekbrains\3. Введение в программирование\Seminar 5\Seminar5_MarlenAlishev_HW\Exercise34\obj\Debug\net6.0\ref\Exercise34.dll
